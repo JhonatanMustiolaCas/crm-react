@@ -1,0 +1,355 @@
+{
+  "clientes": [
+    {
+      "id": 2,
+      "nombre": "Jane Smith",
+      "telefono": 987654321,
+      "email": "janesmith@example.com",
+      "empresa": "XYZ Corporation"
+    },
+    {
+      "id": 3,
+      "nombre": "Michael Johnson",
+      "telefono": 5555555555,
+      "email": "michaeljohnson@example.com",
+      "empresa": "123 Industries"
+    },
+    {
+      "id": 4,
+      "nombre": "Emily Davis",
+      "telefono": 7777777777,
+      "email": "emilydavis@example.com",
+      "empresa": "456 Enterprises"
+    },
+    {
+      "id": 5,
+      "nombre": "Robert Wilson",
+      "telefono": 9999999999,
+      "email": "robertwilson@example.com",
+      "empresa": "789 Co."
+    },
+    {
+      "id": 6,
+      "nombre": "Olivia Thompson",
+      "telefono": 3333333333,
+      "email": "oliviathompson@example.com",
+      "empresa": "DEF Corporation"
+    },
+    {
+      "id": 7,
+      "nombre": "William Martinez",
+      "telefono": 1111111111,
+      "email": "williammartinez@example.com",
+      "empresa": "GHI Industries"
+    },
+    {
+      "id": 8,
+      "nombre": "Sophia Anderson",
+      "telefono": 4444444444,
+      "email": "sophiaanderson@example.com",
+      "empresa": "JKL Co."
+    },
+    {
+      "id": 9,
+      "nombre": "James Taylor",
+      "telefono": 2222222222,
+      "email": "jamestaylor@example.com",
+      "empresa": "MNO Corporation"
+    },
+    {
+      "id": 10,
+      "nombre": "Isabella Thomas",
+      "telefono": 6666666666,
+      "email": "isabellathomas@example.com",
+      "empresa": "PQR Industries"
+    },
+    {
+      "id": 11,
+      "nombre": "Benjamin Hernandez",
+      "telefono": 8888888888,
+      "email": "benjaminhernandez@example.com",
+      "empresa": "STU Co."
+    },
+    {
+      "id": 12,
+      "nombre": "Mia Moore",
+      "telefono": 7777777777,
+      "email": "miamoore@example.com",
+      "empresa": "VWX Corporation"
+    },
+    {
+      "id": 13,
+      "nombre": "Ethan Clark",
+      "telefono": 5555555555,
+      "email": "ethanclark@example.com",
+      "empresa": "YZA Industries"
+    },
+    {
+      "id": 14,
+      "nombre": "Ava Lewis",
+      "telefono": 3333333333,
+      "email": "avalewis@example.com",
+      "empresa": "BCD Co."
+    },
+    {
+      "id": 15,
+      "nombre": "Noah Walker",
+      "telefono": 1111111111,
+      "email": "noahwalker@example.com",
+      "empresa": "EFG Corporation"
+    },
+    {
+      "id": 16,
+      "nombre": "Chloe Hall",
+      "telefono": 4444444444,
+      "email": "chloehall@example.com",
+      "empresa": "HIJ Industries"
+    },
+    {
+      "id": 17,
+      "nombre": "Logan Young",
+      "telefono": 2222222222,
+      "email": "loganyoung@example.com",
+      "empresa": "KLM Co."
+    },
+    {
+      "id": 18,
+      "nombre": "Lily King",
+      "telefono": 6666666666,
+      "email": "lilyking@example.com",
+      "empresa": "NOP Corporation"
+    },
+    {
+      "id": 19,
+      "nombre": "Lucas Scott",
+      "telefono": 8888888888,
+      "email": "lucasscott@example.com",
+      "empresa": "QRS Industries"
+    },
+    {
+      "id": 20,
+      "nombre": "Zoe Baker",
+      "telefono": 7777777777,
+      "email": "zoebaker@example.com",
+      "empresa": "TUV Co."
+    },
+    {
+      "id": 21,
+      "nombre": "Liam Green",
+      "telefono": 5555555555,
+      "email": "liamgreen@example.com",
+      "empresa": "WXY Corporation"
+    },
+    {
+      "id": 22,
+      "nombre": "Grace Hill",
+      "telefono": 3333333333,
+      "email": "gracehill@example.com",
+      "empresa": "YZB Industries"
+    },
+    {
+      "id": 23,
+      "nombre": "Henry Adams",
+      "telefono": 1111111111,
+      "email": "henryadams@example.com",
+      "empresa": "CDE Co."
+    },
+    {
+      "id": 24,
+      "nombre": "Avery Turner",
+      "telefono": 4444444444,
+      "email": "averyturner@example.com",
+      "empresa": "FGH Corporation"
+    },
+    {
+      "id": 25,
+      "nombre": "Sofia Parker",
+      "telefono": 2222222222,
+      "email": "sofiaparker@example.com",
+      "empresa": "IJK Co."
+    },
+    {
+      "id": 26,
+      "nombre": "Daniel Collins",
+      "telefono": 6666666666,
+      "email": "danielcollins@example.com",
+      "empresa": "LMN Corporation"
+    },
+    {
+      "id": 27,
+      "nombre": "Victoria Ward",
+      "telefono": 8888888888,
+      "email": "victoriaward@example.com",
+      "empresa": "OPQ Industries"
+    },
+    {
+      "id": 28,
+      "nombre": "Matthew Cox",
+      "telefono": 7777777777,
+      "email": "matthewcox@example.com",
+      "empresa": "RST Co."
+    },
+    {
+      "id": 29,
+      "nombre": "Scarlett Bailey",
+      "telefono": 5555555555,
+      "email": "scarlettbailey@example.com",
+      "empresa": "UVW Corporation"
+    },
+    {
+      "id": 30,
+      "nombre": "Andrew Foster",
+      "telefono": 3333333333,
+      "email": "andrewfoster@example.com",
+      "empresa": "XYZ Industries"
+    },
+    {
+      "id": 31,
+      "nombre": "Madison Kelly",
+      "telefono": 1111111111,
+      "email": "madisonkelly@example.com",
+      "empresa": "ABC Co."
+    },
+    {
+      "id": 32,
+      "nombre": "David Reed",
+      "telefono": 4444444444,
+      "email": "davidreed@example.com",
+      "empresa": "DEF Corporation"
+    },
+    {
+      "id": 33,
+      "nombre": "Penelope Cox",
+      "telefono": 2222222222,
+      "email": "penelopecox@example.com",
+      "empresa": "GHI Co."
+    },
+    {
+      "id": 34,
+      "nombre": "Josephine Bell",
+      "telefono": 6666666666,
+      "email": "josephinebell@example.com",
+      "empresa": "JKL Corporation"
+    },
+    {
+      "id": 35,
+      "nombre": "Gabriel Ward",
+      "telefono": 8888888888,
+      "email": "gabrielward@example.com",
+      "empresa": "MNO Industries"
+    },
+    {
+      "id": 36,
+      "nombre": "Aria Wright",
+      "telefono": 7777777777,
+      "email": "ariawright@example.com",
+      "empresa": "PQR Co."
+    },
+    {
+      "id": 37,
+      "nombre": "Carter Turner",
+      "telefono": 5555555555,
+      "email": "carterturner@example.com",
+      "empresa": "STU Corporation"
+    },
+    {
+      "id": 38,
+      "nombre": "Julia Adams",
+      "telefono": 3333333333,
+      "email": "juliaadams@example.com",
+      "empresa": "VWX Co."
+    },
+    {
+      "id": 39,
+      "nombre": "Mateo Hill",
+      "telefono": 1111111111,
+      "email": "mateohill@example.com",
+      "empresa": "YZA Corporation"
+    },
+    {
+      "id": 40,
+      "nombre": "Harper Scott",
+      "telefono": 4444444444,
+      "email": "harperscott@example.com",
+      "empresa": "BCD Co."
+    },
+    {
+      "id": 41,
+      "nombre": "Evelyn Baker",
+      "telefono": 2222222222,
+      "email": "evelynbaker@example.com",
+      "empresa": "EFG Corporation"
+    },
+    {
+      "id": 42,
+      "nombre": "Sebastian Green",
+      "telefono": 6666666666,
+      "email": "sebastiangreen@example.com",
+      "empresa": "HIJ Industries"
+    },
+    {
+      "id": 43,
+      "nombre": "Addison Hall",
+      "telefono": 8888888888,
+      "email": "addisonhall@example.com",
+      "empresa": "KLM Co."
+    },
+    {
+      "id": 44,
+      "nombre": "Mila Young",
+      "telefono": 7777777777,
+      "email": "milayoung@example.com",
+      "empresa": "NOP Corporation"
+    },
+    {
+      "id": 45,
+      "nombre": "Owen King",
+      "telefono": 5555555555,
+      "email": "owenking@example.com",
+      "empresa": "QRS Industries"
+    },
+    {
+      "id": 46,
+      "nombre": "Luna Scott",
+      "telefono": 3333333333,
+      "email": "lunascott@example.com",
+      "empresa": "TUV Co."
+    },
+    {
+      "id": 47,
+      "nombre": "Jackson Baker",
+      "telefono": 1111111111,
+      "email": "jacksonbaker@example.com",
+      "empresa": "WXY Corporation"
+    },
+    {
+      "id": 48,
+      "nombre": "Layla Green",
+      "telefono": 4444444444,
+      "email": "laylagreen@example.com",
+      "empresa": "YZB Co."
+    },
+    {
+      "id": 49,
+      "nombre": "Wyatt Hill",
+      "telefono": 2222222222,
+      "email": "wyatthill@example.com",
+      "empresa": "CDE Corporation"
+    },
+    {
+      "id": 50,
+      "nombre": "Savannah Adams",
+      "telefono": 6666666666,
+      "email": "savannahadams@example.com",
+      "empresa": "FGH Co."
+    },
+    {
+      "nombre": "Jhonatan Mustiola",
+      "empresa": "TecnoMancia",
+      "email": "jhonmustiomaths@protonmail.com",
+      "telefono": "123123",
+      "notas": "Quiero una app",
+      "id": 51
+    }
+  ]
+}
